@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>ico/audio.ico</file>
+        <file>ico/speaker.ico</file>
+    </qresource>
+</RCC>
